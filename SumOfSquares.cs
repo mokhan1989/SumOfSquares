@@ -6,8 +6,8 @@
    Project Type: Console application
    Language: C#
    Description: A c# console application that calculates the sum of the first 100 squared numbers.
-   				The second part calculates the sum of the first 100 numbers, squares it, and finds 
-				the difference between this number and the sum of each number squared.
+   		The second part calculates the sum of the first 100 numbers, squares it, and finds 
+		the difference between this number and the sum of each number squared.
 */
 using System;
 using System.Collections.Generic;
